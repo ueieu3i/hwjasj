@@ -133,3 +133,19 @@ local t = {"libUE4.so:bss", "Cb"}
 local tt = {0x31F4104}
 local ttt = S_Pointer(t, tt, true)
 gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libanogs.so:bss", "Cb"}
+local tt = {0x3B5228}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}}) 
+local t = {"libanogs.so:bss", "Cb"}
+local tt = {0x3B5F08}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}}) 
+local t = {"libanogs.so:bss", "Cb"}
+local tt = {0x26E4D4}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}}) 
+local t = {"libanogs.so:bss", "Cb"}
+local tt = {0x3DC260}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
