@@ -1,0 +1,472 @@
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392374}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392374; 5,360,119,185,456; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392378}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392378; 136,339,441,845,472; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392AFC}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392AFC; 2,665,216,185,731,072; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392B0C}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392B0C; 196,079,202,821,210,112; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392B20}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392B20; 996,432,412,672; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392B28}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392B28; 12,214,886,989,840; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392B34}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392B34; 3,197,379,813,573,632; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392B8C}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392B8C; 618,475,291,648; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392B94}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392B94; 1,284,229,581,242,368; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392BD0}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392BD0; 3,069,836,464,753,664; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392C04}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392C04; 3,065,438,418,240,512; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392C24}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392C24; 12,266,426,597,376; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392C3C}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392C3C; 281,474,976,710,656; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392C48}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392C48; 181,442,504,032,256,000; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392C60}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392C60; 68,719,477,264; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392C64}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392C64; 6,012,954,214,416; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392C70}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392C70; 1,578,898,697,488,384; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392C80}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392C80; -6,052,837,899,185,946,624; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392C94}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392C94; 51,539,608,256; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392CA4}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392CA4; 1,609,685,023,066,112; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392CB4}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392CB4; 5,764,607,523,034,234,880; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392D0C}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392D0C; 1,605,286,976,555,008; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392D44}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392D44; 281,474,976,710,656; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392D64}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392D64; 24,769,797,950,537,728; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392D7C}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392D7C; 12,884,901,888; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392DC8}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392DC8; 857,619,069,666,304; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392E0C}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392E0C; 2,017,612,633,061,982,208; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392E28}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392E28; 936,788,201,833,312; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392E30}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392E30; 945,579,999,888,384; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392E40}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392E40; 68,852,513,347,993,600; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392E6C}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392E6C; 321,057,395,310,592; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392E94}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392E94; 2,199,023,255,552; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392E98}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392E98; 34,359,738,880; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392EAC}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392EAC; 281,474,976,710,656; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392EC4}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392EC4; 755,914,244,096; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392ECC}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392ECC; 193,514,046,488,576; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392EFC}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392EFC; 4,535,485,464,592; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392F00}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392F00; 294,669,116,245,024; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392F0C}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392F0C; 94,575,592,174,780,416; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392F40}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392F40; 154,248,287,237,439,488; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392F68}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392F68; 650,910,883,644,352; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392F80}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392F80; 8,646,911,284,551,352,320; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE392FD8}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE392FD8; 1,099,511,627,778,048; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE39300C}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE39300C; 1,218,258,883,577,856; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE393044}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE393044; 281,474,976,710,656; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE393064}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE393064; 41,658,296,553,177,088; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE393084}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE393084; 876,173,328,576; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE39308C}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE39308C; 435,406,604,599,296; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE3930C0}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE3930C0; 558,551,906,910,208; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E5BC}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E5BC; 7,318,624,272,384; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E5D4}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E5D4; 529,172,956,216,033,280; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E5F0}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E5F0; 8,624,294,330,368; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E608}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E608; 614,741,349,136,072,704; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E624}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E624; 9,981,503,995,904; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E638}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E638; 9,425,013,673,296,896; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E664}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E664; 2,748,779,069,440,000; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E690}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E690; 188,978,563,616; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E698}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E698; 2,898,312,650,817,536; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E6A0}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E6A0; 9,763,663,254,653,952; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E6C8}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E6C8; 31,421,980,737,600; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E6D4}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E6D4; 8,699,335,998,965,760; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E6F8}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E6F8; 103,079,218,176; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E708}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E708; 8,972,014,882,654,208; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E718}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E718; 8,935,141,660,703,064,064; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E734}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E734; 3,641,582,511,194,112; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E75C}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E75C; 14,534,169,329,696; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E764}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E764; 31,559,419,691,088; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E774}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E774; 986,288,318,394,138,624; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E790}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E790; 15,341,623,181,344; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E7A8}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E7A8; 1,036,953,814,202,056,704; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E7C4}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E7C4; 16,303,695,855,616; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E7D8}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E7D8; 9,451,401,952,363,520; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E7E8}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E7E8; 5,764,607,523,034,234,880; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E804}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E804; 4,367,260,185,526,272; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E830}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E830; 188,978,565,088; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E838}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E838; 4,516,793,766,903,808; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E840}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E840; 9,913,196,836,031,488; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E850}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E850; 4,611,686,018,427,387,904; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E868}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E868; 31,456,340,475,968; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E894}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E894; 20,873,541,058,560; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E89C}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E89C; 31,593,779,429,440; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E8A8}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E8A8; 8,096,803,626,944,512; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E8B8}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E8B8; 5,188,146,770,730,811,392; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E8DC}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E8DC; 9,596,537,487,230,976; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E8EC}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E8EC; 7,782,220,156,096,217,088; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E908}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E908; 6,122,080,743,456,768; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E910}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E910; 9,605,333,580,253,184; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E920}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E920; 864,691,128,455,135,232; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E93C}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E93C; 6,298,002,603,900,928; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E944}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E944; 9,614,129,673,275,392; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E96C}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E96C; 80; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E970}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E970; 6,478,322,510,856,192; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E978}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})        -- BE80E978; 9,622,925,766,297,600; LOL
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x72BE80E988}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address  = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x242F044}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x242F054}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x242F064}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x242F074}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x242F084}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x242F094}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x242F0A4}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x242F0B4}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x242F0C4}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x242F0D4}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x242F0E4}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x242F0F4}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x242F104}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x242F114}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x242F124}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x242F134}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x242F144}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x242F154}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x242F164}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x242F174}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x242F184}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x242F194}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x242F1A4}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x242F1B4}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
