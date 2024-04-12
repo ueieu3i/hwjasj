@@ -1,0 +1,172 @@
+local tt = {0x2707AC}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}}) 
+ local t = {"libTDataMaster.so:bss", "Cb"}
+local tt = {0x27692C}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}}) 
+ local t = {"libTDataMaster.so:bss", "Cb"}
+local tt = {0x524EC}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}}) 
+ local t = {"libTDataMaster.so:bss", "Cb"}
+local tt = {0x27694C}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}}) 
+ local t = {"libTDataMaster.so:bss", "Cb"}
+local tt = {0x532C8}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}}) 
+ local t = {"libTDataMaster.so:bss", "Cb"}
+local tt = {0x74ED8}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0xB61480}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0xB4F974}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0xB4D1A8}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0xB4A658}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0xB41E0C}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0xB2CA30}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0xAF0690}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0xAF0650}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0xAEEE98}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0xABF0A8}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x988D34}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x987364}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x97CA3C}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x97C8FC}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x97C7BC}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x976914}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x959FA4}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x951B68}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x8BAB50}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x8B4DB8}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x8B3C48}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x8B0FC8}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x8B0F64}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x8A0224}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x899944}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x898964}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x896D40}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x895E68}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x8574B0}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x84985C}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x840F28}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x83F11C}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x81D230}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x81164C}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x809A5C}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x7F7F3C}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
+local t = {"libUE4.so:bss", "Cb"}
+local tt = {0x7F5E78}
+local ttt = S_Pointer(t, tt, true)
+gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}})
