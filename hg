@@ -1,3 +1,4 @@
+local t = {"libTDataMaster.so:bss", "Cb"}
 local tt = {0x2707AC}
 local ttt = S_Pointer(t, tt, true)
 gg.addListItems({{address = ttt, flags = 4, value = 0, freeze = true}}) 
